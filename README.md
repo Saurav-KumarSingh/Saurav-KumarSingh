@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Saurav Kumar Singh</h1>
-<h3 >Full Stack Developer | Java Enthusiast | Open Source Contributor</h3>
+<h3 >Full Stack Developer | Java Developer | Backend Developer | Frontend Developer</h3>
 
 <p >
   <img src="https://komarev.com/ghpvc/?username=saurav-kumarsingh&label=Profile%20views&color=0e75b6&style=flat" alt="saurav-kumarsingh" />
